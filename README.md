@@ -1,6 +1,8 @@
 Welcome to My GitHub Profile
 <p align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=5000&pause=3000&color=00BFFF&center=true&width=600&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+Enthusiast;Exploring+IoT+%26+Robotics;Always+Curious+and+Learning" alt="Typing Animation" /> </p>
+
 About Me
+
 ```yaml
 name: "Om Kulkarni"
 education: "Electronics & Communication Engineering (Undergrad)"
